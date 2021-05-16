@@ -1,0 +1,270 @@
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #666 ;
+    font-weight: 400;
+  }
+
+  nav {
+    display: flex;
+    height: 5rem;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  nav ul {
+    padding-left: 15rem;
+    display: flex;
+    list-style: none;
+    width: 30%;
+    text-align: center;
+  }
+  
+  a {
+    font-size: 18px;
+    display: inline;
+    padding: 0 6px;
+  
+    color: black;
+    text-decoration: none;
+  }
+  .top-btn {
+    margin-left: 2rem;
+    font-size: 20px;
+    padding: 1rem 2rem 1rem 2rem;
+    background: linear-gradient(90deg, #aa0278, #ff294c);
+    justify-content: space-between;
+    display: block;
+    border: 2px solid;
+    border-radius: 50px;
+    color: beige;
+  }
+  .logo {
+    margin: 0;
+    padding: 0;
+  }
+  hr {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8c8c inset;
+  }
+
+
+.flex-container1 {
+display: flex;
+background-color: white;
+margin: 0;
+padding: 0;
+
+}
+
+.flex-container1 > div {
+float:left;
+background-color:white;
+margin: 20px;
+padding: 100px;
+justify-content: flex-start;
+
+}
+
+  .edu{
+    text-align: left;
+    font-size: 100;
+    
+    }
+  .desc{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+ 
+
+.academic{
+font-size: 100;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.ac_body{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+.flex-container2 {
+display: flex;
+background-color: white;
+margin-right: 0px;
+padding: 0;
+position: relative;
+}
+
+.flex-container2 > div {
+float: left;
+background-color: white;
+margin: 20px;
+padding: 100px;
+}
+
+.flex-container3 {
+display: flex;
+background-color: white;
+margin-right: 0px;
+padding: 0;
+position: relative;
+}
+
+.flex-container3 > div {
+float: left;
+background-color: white;
+margin: 20px;
+padding: 100px;
+}
+
+.all{
+font-size: 100;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.all_body{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+.flex-container4 {
+display: flex;
+background-color: #f1f1f1;
+margin: 10px;
+padding: 50px;
+position: relative;
+box-shadow: whitesmoke;
+border-radius: 10px;
+}
+
+.flex-container4 > div {
+float: left;}
+
+.flex-container5 {
+display: flex;
+background-color: white;
+margin: 0;
+padding: 50px;
+
+}
+
+.flex-container5 > div {
+float:left;
+background-color:white;
+margin: 10px;
+padding: 100px;
+justify-content: flex-start;
+
+}
+
+.flex-container6 {
+display: flex;
+background-color: white;
+margin: 0;
+padding: 50px;
+
+}
+
+.flex-container6 > div {
+
+background-color:white;
+margin: 10px;
+padding: 100px;
+justify-content: flex-start;
+
+}
+
+.flex-container7 {
+display: flex;
+background-color: white;
+margin: 0;
+padding: 50px;
+
+}
+
+.flex-container7 > div {
+float:left;
+background-color:white;
+margin: 10px;
+padding: 100px;
+justify-content: flex-start;
+
+}
+
+.appointy_handle{
+font-size: 100;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.appointy_handle_body{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+.flex-container8 {
+display: flex;
+background-color: white;
+margin-right: 0px;
+padding: 0;
+position: relative;
+}
+
+.flex-container8 > div {
+float: left;
+background-color: white;
+margin: 20px;
+padding: 100px;
+}
+
+.flex-container9 {
+display: flex;
+background-color: white;
+margin-right: 0px;
+padding: 0;
+position: relative;
+}
+
+.flex-container9 > div {
+float: left;
+background-color: white;
+margin: 20px;
+padding: 100px;
+}
+
+.appointy_integrity{
+font-size: 100;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.appointy_integrity_body{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+.flex-container10 {
+display: flex;
+background-color: white;
+margin-right: 0px;
+padding: 0;
+position: relative;
+}
+
+.flex-container10 > div {
+float: left;
+background-color: white;
+margin: 20px;
+padding: 100px;
+}
+
+.btn1{
+    margin-left: 2rem;
+    font-size: 15px;
+    padding: 1rem 2rem 1rem 2rem;
+    justify-content: space-between;
+    display: block;
+    border: none ;
+    border-radius: 50px;
+    color: black;
+    text-align: center;
+    background-color: whitesmoke;
+
+}
