@@ -164,8 +164,9 @@ justify-content: flex-start;
 .flex-container8 {
 display: flex;
 background-color: white;
-margin: 10px;
-padding: 20px;
+margin-right: 80px;
+margin-left: 80px;
+padding: 0px;
 position: relative;
 }
 
@@ -180,7 +181,8 @@ padding: 20px;
 .flex-container10 {
 display: flex;
 background-color: white;
-margin-right: 0px;
+margin-left: 70px;
+margin-right: 70px;
 padding: 0;
 position: relative;
 }
@@ -188,8 +190,8 @@ position: relative;
 .flex-container10 > div {
 float: left;
 background-color: white;
-margin: 20px;
-padding: 100px;
+margin: 10px;
+padding: 80px;
 }
 
 .btn1{
