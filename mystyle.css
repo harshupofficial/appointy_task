@@ -1,0 +1,196 @@
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #666 ;
+    font-weight: 400;
+  }
+
+  nav {
+    display: flex;
+    height: 5rem;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  nav ul {
+    padding-left: 15rem;
+    line-height: 60px;
+    display: flex;
+    list-style: none;
+    width: 30%;
+    text-align: center;
+  }
+  
+  a {
+    font-size: 18px;
+    display: inline;
+    padding: 0 6px;
+  
+    color: black;
+    text-decoration: none;
+  }
+  .top-btn {
+    margin-left: 2rem;
+    font-size: 20px;
+    padding: 1rem 2rem 1rem 2rem;
+    background: linear-gradient(90deg, #aa0278, #ff294c);
+    justify-content: space-between;
+    display: block;
+    border: 2px solid;
+    border-radius: 50px;
+    color: beige;
+  }
+
+  .start-btn {
+    font-size: 20px;
+    padding: 1rem 2rem 1rem 2rem;
+    background: linear-gradient(90deg, #aa0278, #ff294c);
+    justify-content: space-between;
+    display: block;
+    border: 2px solid;
+    border-radius: 50px;
+    color: beige;
+  }
+
+  .logo {
+    margin: 0;
+    padding: 0;
+  }
+  hr {
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8c8c inset;
+  }
+
+
+.flex-container1 {
+display: flex;
+background-color: white;
+margin: 0;
+padding: 0;
+
+}
+
+.flex-container1 > div {
+text-align: left;
+background-color:white;
+margin: 30px;
+padding: 50px;
+justify-content: flex-start;
+
+}
+
+  .edu{
+    font-size: 100;
+    }
+  .desc{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.flex-container2 {
+display: flex;
+background-color: white;
+margin-right: 80px;
+margin-left: 80px;
+padding: 0;
+position: relative;
+}
+
+.flex-container2 > div {
+float: left;
+background-color: white;
+margin: 15px;
+padding: 20px;
+}
+
+
+.all_head{
+font-size: 100;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.all_body{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+.flex-container4 {
+display: flex;
+background-color: #f1f1f1;
+margin-left: 100px ;
+margin-right: 100px;
+padding: 20px;
+position: relative;
+box-shadow: whitesmoke;
+border-radius: 10px;
+}
+
+.flex-container4 > div {
+margin: 5px;
+padding: 10px ;  
+float: left;
+}
+
+.flex-container6 {
+display: flex;
+background-color: white;
+margin-left: 80px;
+margin-right: 80px ;
+padding: 5px;
+
+}
+
+.flex-container6 > div {
+
+background-color:white;
+margin: 10px;
+padding: 50px;
+justify-content: flex-start;
+
+}
+
+.flex-container8 {
+display: flex;
+background-color: white;
+margin-right: 80px;
+margin-left: 80px;
+padding: 0px;
+position: relative;
+}
+
+.flex-container8 > div {
+float: left;
+background-color: white;
+margin: 15px;
+padding: 20px;
+}
+
+
+.flex-container10 {
+display: flex;
+background-color: white;
+margin-left: 70px;
+margin-right: 70px;
+padding: 0;
+position: relative;
+}
+
+.flex-container10 > div {
+float: left;
+background-color: white;
+margin: 10px;
+padding: 80px;
+}
+
+.btn1{
+    margin-left: 2rem;
+    font-size: 15px;
+    padding: 1rem 2rem 1rem 2rem;
+    justify-content: space-between;
+    display: block;
+    border: none ;
+    border-radius: 50px;
+    color: black;
+    text-align: center;
+    background-color: whitesmoke;
+
+}
