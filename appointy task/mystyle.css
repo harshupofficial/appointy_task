@@ -12,6 +12,7 @@ body{
   }
   nav ul {
     padding-left: 15rem;
+    line-height: 60px;
     display: flex;
     list-style: none;
     width: 30%;
@@ -37,6 +38,18 @@ body{
     border-radius: 50px;
     color: beige;
   }
+
+  .start-btn {
+    font-size: 20px;
+    padding: 1rem 2rem 1rem 2rem;
+    background: linear-gradient(90deg, #aa0278, #ff294c);
+    justify-content: space-between;
+    display: block;
+    border: 2px solid;
+    border-radius: 50px;
+    color: beige;
+  }
+
   .logo {
     margin: 0;
     padding: 0;
@@ -57,34 +70,21 @@ padding: 0;
 }
 
 .flex-container1 > div {
-float:left;
+text-align: left;
 background-color:white;
-margin: 20px;
-padding: 100px;
+margin: 30px;
+padding: 50px;
 justify-content: flex-start;
 
 }
 
   .edu{
-    text-align: left;
     font-size: 100;
-    
     }
   .desc{
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     }
- 
-
-.academic{
-font-size: 100;
-font-family: Arial, Helvetica, sans-serif;
-text-align: center;
-}
-.ac_body{
-font-family: Arial, Helvetica, sans-serif;
-text-align: center;
-}
 
 .flex-container2 {
 display: flex;
@@ -116,7 +116,7 @@ margin: 20px;
 padding: 100px;
 }
 
-.all{
+.all_head{
 font-size: 100;
 font-family: Arial, Helvetica, sans-serif;
 text-align: center;
@@ -129,38 +129,26 @@ text-align: center;
 .flex-container4 {
 display: flex;
 background-color: #f1f1f1;
-margin: 10px;
-padding: 50px;
+margin-left: 100px ;
+margin-right: 100px;
+padding: 20px;
 position: relative;
 box-shadow: whitesmoke;
 border-radius: 10px;
 }
 
 .flex-container4 > div {
-float: left;}
-
-.flex-container5 {
-display: flex;
-background-color: white;
-margin: 0;
-padding: 50px;
-
-}
-
-.flex-container5 > div {
-float:left;
-background-color:white;
-margin: 10px;
-padding: 100px;
-justify-content: flex-start;
-
+margin: 5px;
+padding: 10px ;  
+float: left;
 }
 
 .flex-container6 {
 display: flex;
 background-color: white;
-margin: 0;
-padding: 50px;
+margin-left: 80px;
+margin-right: 80px ;
+padding: 5px;
 
 }
 
@@ -168,77 +156,26 @@ padding: 50px;
 
 background-color:white;
 margin: 10px;
-padding: 100px;
-justify-content: flex-start;
-
-}
-
-.flex-container7 {
-display: flex;
-background-color: white;
-margin: 0;
 padding: 50px;
-
-}
-
-.flex-container7 > div {
-float:left;
-background-color:white;
-margin: 10px;
-padding: 100px;
 justify-content: flex-start;
 
-}
-
-.appointy_handle{
-font-size: 100;
-font-family: Arial, Helvetica, sans-serif;
-text-align: center;
-}
-.appointy_handle_body{
-font-family: Arial, Helvetica, sans-serif;
-text-align: center;
 }
 
 .flex-container8 {
 display: flex;
 background-color: white;
-margin-right: 0px;
-padding: 0;
+margin: 10px;
+padding: 20px;
 position: relative;
 }
 
 .flex-container8 > div {
 float: left;
 background-color: white;
-margin: 20px;
-padding: 100px;
+margin: 15px;
+padding: 20px;
 }
 
-.flex-container9 {
-display: flex;
-background-color: white;
-margin-right: 0px;
-padding: 0;
-position: relative;
-}
-
-.flex-container9 > div {
-float: left;
-background-color: white;
-margin: 20px;
-padding: 100px;
-}
-
-.appointy_integrity{
-font-size: 100;
-font-family: Arial, Helvetica, sans-serif;
-text-align: center;
-}
-.appointy_integrity_body{
-font-family: Arial, Helvetica, sans-serif;
-text-align: center;
-}
 
 .flex-container10 {
 display: flex;
